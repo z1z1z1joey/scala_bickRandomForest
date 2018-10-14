@@ -1,2 +1,4 @@
 # scala_bickRandomForest
 腳踏車四季租借預測(使用RandomForest)
+透過Scala程式語言利用隨機森林預測在某些因子下的腳踏車租借量
+可以有效的調度腳踏車。
